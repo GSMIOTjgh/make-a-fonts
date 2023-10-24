@@ -15,3 +15,11 @@ ex)
 
 
 <img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/31e5f093-d882-4be6-833d-38cee50a3480">
+
+10/23 ~ 10/24
+A ~ O 까지 만들었다
+하지만 D, E, G가 색 조합은 잘 되었지만
+**글리치**느낌이 잘 안나는 느낌이다. 약간 지지직거리는 게 부족한 느낌?
+
+그래서 D, E, G는 나중에 수정 예정이다.
+
