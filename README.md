@@ -1,6 +1,6 @@
 # make-a-fonts
 >>
-10/22
+**10/22**
 
 나는 폰트를 만들기로 하였다.
 
@@ -17,9 +17,9 @@ ex)
 
 
 <img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/31e5f093-d882-4be6-833d-38cee50a3480">
+>>
 
-
-10/23 ~ 10/24
+**10/23 ~ 10/24**
 
 >>
 A ~ O 까지 만들었다
