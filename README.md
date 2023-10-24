@@ -33,4 +33,5 @@ A ~ O 까지 만들었다
 그래서 D, E, G는 나중에 수정 예정이다.
 
 
+폰트 이미지 폴더 ↓
 https://github.com/GSMIOTjgh/make-a-fonts/tree/main/fonts%20image
