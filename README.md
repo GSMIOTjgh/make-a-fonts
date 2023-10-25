@@ -32,6 +32,13 @@ A ~ T 까지 만들었다.
 
 그래서 D, E, G, I, J, T는 나중에 수정 예정이다.
 
+![D - 미정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/e449c152-7e1c-4143-8b84-2ddaccc0c17a)
+![E - 미정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/72ee6c05-06c5-4fc2-b36e-16e47c498c9f)
+![G - 미정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/c8a23feb-2bd7-4055-b9cd-654db8d4f602)
+![I - 미정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/06f05903-6b28-44c8-872a-e0010d5bda0d)
+![J - 미정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/7ddf7927-e0cc-4805-a559-58108b77d76a)
+![T - 미정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/23da6a4c-7d5b-44ad-9f13-81e2c8cfeb33)
+
 _____________________________________________________________________________________
 
 **10/25**
@@ -46,8 +53,10 @@ D, E, G, I, J, T를 수정했다.
 
 ![D - 확정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/ea716a06-749d-43ee-918d-0a96595cdf0a)
 ![E - 확정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/097ba08a-468b-4a6d-a2e6-5e053062b8bd)
-
-
+![G - 확정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/6e0a58bd-be1c-47f1-a550-b3b6b9cf1f12)
+![I - 확정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/0ae738db-ef4c-4f5c-bb64-b74d8cffa3c6)
+![J - 확정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/3480f1d4-cd66-402e-bfdd-b4639ab383b6)
+![T - 확정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/f8188c04-8d06-4bb7-a06d-6659e476196a)
 
 _____________________________________________________________________________________
 
