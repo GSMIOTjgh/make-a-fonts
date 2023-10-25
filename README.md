@@ -59,10 +59,11 @@ D, E, G, I, J, T를 수정했다.
 ![T - 확정](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/f8188c04-8d06-4bb7-a06d-6659e476196a)
 _____________________________________________________________________________________
 
+**↓ 폰트 전체 사진**
 
 ![전체-백](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/8e264524-2e8c-4eb9-8c6f-2525780b7b66)
+![전체-흑](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/eb3a9c49-f1f5-4549-abaf-87dfd62642a1)
 
-<img width="177" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/aa9125fe-acfb-4dd2-a988-ff8c0b558198">
 
 
 _____________________________________________________________________________________
