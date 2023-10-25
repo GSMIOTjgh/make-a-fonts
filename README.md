@@ -44,7 +44,7 @@ U ~ Z 까지 만들었다.
 
 D, E, G, I, J, T를 수정했다.
 
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/D-확정">
+<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/fonts image/D-확정">
 
 _____________________________________________________________________________________
 
