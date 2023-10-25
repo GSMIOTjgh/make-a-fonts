@@ -32,12 +32,7 @@ A ~ T 까지 만들었다.
 
 그래서 D, E, G, I, J, T는 나중에 수정 예정이다.
 
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/51ac797c-d9c6-4689-a54f-2b154ebc23c0">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/b1836c4e-4d56-461c-a4be-ae5bfc174b3b">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/3575cfd8-77cf-49a4-a7c9-503933d0c0e2">
-<img width="227" height="200" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/427487ba-e622-495b-92b5-4cf93da92618">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/1ce8f42b-9a47-48e6-847e-ea62e18a5298">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/2c5e5824-b74d-4aa0-914b-d713a04a04ab">
+<img width="227" alt="image src="https://github.com/GSMIOTjgh/make-a-fonts/blob/main/fonts%20image/D%20-%20%ED%99%95%EC%A0%95.jpg">
 
 
 
