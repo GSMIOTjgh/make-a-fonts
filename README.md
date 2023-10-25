@@ -32,13 +32,6 @@ A ~ T 까지 만들었다.
 
 그래서 D, E, G, I, J, T는 나중에 수정 예정이다.
 
-<img width="227" alt="image src="https://github.com/GSMIOTjgh/make-a-fonts/blob/main/fonts%20image/D%20-%20%ED%99%95%EC%A0%95.jpg">
-
-
-
-
-
-
 _____________________________________________________________________________________
 
 **10/25**
@@ -50,19 +43,6 @@ U ~ Z 까지 만들었다.
 특수기호들을 만드는 것이 남았다.
 
 D, E, G, I, J, T를 수정했다.
-
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/901915c1-70d5-4a0d-a4ad-6650b6293176
-">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/78ef07fe-53f0-49bc-9737-c024a820cadc
-">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/e3a9711e-2639-4cce-94d0-85d7bab966a3
-">
-<img width="227" height="200" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/1c72c381-52cb-4823-99ea-5c0b80112e12
-">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/9a54eb7e-e990-41a6-b9fa-d9c9bdb6bc60
-">
-<img width="227" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/9deaf1c8-f50a-4465-8e28-9f2d7e9ee378
-">
 
 _____________________________________________________________________________________
 
