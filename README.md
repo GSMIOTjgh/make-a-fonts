@@ -86,6 +86,9 @@ calligraphr사이트를 이용해 test용도의 ttf파일을 만들었다
 ![fonttest2](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/8e947006-c7c2-49ef-bcff-2646280d1871)
 ![fonttest1](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/a3b5e424-dc36-406f-be64-25d5b7b6100a)
 
+figma로 만들어 뒀던 글씨들의 색이 흰색이고 누끼를 따니까
+흰색이 바탕 색과 같아 인식이 안됐ㄷㅏ..
+
 _____________________________________________________________________________________
 
 폰트 이미지 폴더 ↓
