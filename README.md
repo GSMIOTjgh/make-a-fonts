@@ -68,6 +68,7 @@ ________________________________________________________________________________
 
 **10/31**
 
+
 요즘 js 공부하느라 폰트 만들기에 소홀했다
 
 그래도 일단 특수 기호 !, ?를 만들었다.
@@ -76,6 +77,14 @@ ________________________________________________________________________________
 
 
 ![특수 기호](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/a625b782-abd2-459a-83db-31006de5eb48)
+
+calligraphr사이트를 이용해 test용도의 ttf파일을 만들었다
+
+![Calligraphr-Template1 png](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/45730c2e-cc53-4a8b-b19b-bd632d6e2192)
+
+
+![fonttest2](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/8e947006-c7c2-49ef-bcff-2646280d1871)
+![fonttest1](https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/a3b5e424-dc36-406f-be64-25d5b7b6100a)
 
 _____________________________________________________________________________________
 
