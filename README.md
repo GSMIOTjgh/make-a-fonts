@@ -210,6 +210,8 @@ ________________________________________________________________________________
 
 https://velog.io/@sanbondeveloper/SVG%EB%A5%BC-Icon-Font%EB%A1%9C-%EB%B3%80%ED%99%98-%ED%9B%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 
+https://github.com/Semantic-Org/UI-Icon/tree/master/assets/fonts
+
 ________________________________________________________________________________________
 폰트 이미지 폴더 ↓
 
