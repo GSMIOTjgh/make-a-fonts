@@ -228,9 +228,9 @@ font maker를 사용할 수 있다.
 
 하지만 font maker가 검은색을 제외한 모든 색상을 검은색으로 만드는 형식의 시스템이라면 어쩔 수 없이 Inkscape를 사용해 jpg를 svg로 만들어 svg를 ttf로 만드는 수 밖에 없다.
 
-1.GIMP -> font maker 
+- GIMP -> font maker 
 
-2.GIMP -> Inkscape -> font icon으로
+- GIMP -> Inkscape -> font icon으로
 
 2가지 방법이 있는데 1은 ttf파일 폰트이고
 
