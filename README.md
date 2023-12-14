@@ -276,6 +276,45 @@ SVGO같은 사이트는 또한 404에러가 뜨는 걸 보니 사라진 것 같�
 
 이러한 식으로 Vectr로 만든 svg파일이 인식이 안 되는 등에 문제도 있어 지금 해결 중이다.
 ________________________________________________________________________________________
+
+**12/14**
+
+vectr라는 컨버트 사이트를 이용해 jpg를 svg로 만들었다.
+
+그리고 fontforge의 사용법도 익혔다 곧 있음 정말 끝이다.
+
+라고 생각했던 내가 있었다.
+
+문제는 vectr로 받은 svg파일이 fontforge에서 "파일이 너무 복잡하거나 파일이 오류가 있습니다"라는 문구가 떠버렸다.
+
+하지만 vs code를 이용해서 xml코드를 보니 간소화할 것이 없다.
+
+이 뜻은 파일에 오류가 있다는 뜻이다.
+
+간단히 확인하기 위해 다른 사이트인 icomoon(font icon 만드는 사이트)에서 svg파일을 import 해보았다.
+
+파일상 import가 되지만 이미지가 보이지 않는다.
+
+그렇다는 것은 결국 오류가 있다는 것이다.
+
+사실 확실하지 않지만 색상 보존도 되고 정상적인 것 같은 convert사이트가 있다.
+
+Vector Magic이라는 사이트가 있다.
+
+하지만 월 11,990원 무제한 사용 37,4000원 이라는 가격대이다.
+
+일단 svg화를 성공하는 것을 목표로 잡아야 겠다.
+
+Vector Magic 사진
+
+<img width="1264" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/e0d1fdb1-0ce2-4909-917e-05469140dc56">
+
+vectr로 한 svg파일 xml
+
+<img width="1280" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/812aff8c-9e5c-4587-bcc6-1db4c761f141">
+
+
+________________________________________________________________________________________
 폰트 이미지 폴더 ↓
 
 https://github.com/GSMIOTjgh/make-a-fonts/tree/main/fonts%20image
