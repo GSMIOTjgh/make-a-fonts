@@ -313,7 +313,7 @@ vectr로 한 svg파일 xml
 
 <img width="1280" alt="image" src="https://github.com/GSMIOTjgh/make-a-fonts/assets/132252115/812aff8c-9e5c-4587-bcc6-1db4c761f141">
 
-
+https://ko.vectormagic.com/pricing
 ________________________________________________________________________________________
 폰트 이미지 폴더 ↓
 
